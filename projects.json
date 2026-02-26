@@ -14,6 +14,14 @@
     "status": 1
   },
   {
+    "title": "Steelborn",
+    "folder": "Steelborn",
+    "author": "Anel Hrvacic",
+    "year": "2025_WS",
+    "info": "Hollow Knight Colosseum remake",
+    "status": "1"
+  },
+  {
     "title": "Let me ruin your fun",
     "folder": "Let me ruin your fun",
     "author": "Sebastian Schild",
@@ -26,6 +34,14 @@
     "author": "Jonas Sternbauer",
     "year": "2025_WS",
     "status": 1
+  },
+  {
+    "title": "unknamend Zombie Shooter",
+    "folder": "zombieshooter",
+    "author": "Florian Oberhumer",
+    "year": "2032",
+    "info": "supper game",
+    "status": "0"
   },
   {
     "title": "HyperKine",
@@ -75,5 +91,48 @@
     "author": "Moritz Mueller",
     "year": "2025_WS",
     "status": 1
+  },
+  {
+    "title": "2d extraction shooter",
+    "folder": "2d_extraction_shooter",
+    "author": "Michael Spišák",
+    "year": "2025_WS",
+    "status": 0
+  },
+  {
+    "title": "Shellshock v2",
+    "folder": "shellshock_v2",
+    "author": "Noah Aspöck",
+    "year": "2025_WS",
+    "status": -1
+  },
+  {
+    "title": "Pokemon Defender",
+    "folder": "PokemonDefender",
+    "author": "San Diego Friedwagner",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Hookline",
+    "folder": "Hookline",
+    "author": "Julian Allerstorfer",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Guns & Duns",
+    "folder": "Guns & Duns",
+    "author": "Jakob Kaltenböck",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "Polybridge Fake",
+    "folder": "Polybridge2.0",
+    "author": "Hattinger",
+    "year": "2025_WS",
+    "info": "HAllo",
+    "status": "0"
   }
 ]
